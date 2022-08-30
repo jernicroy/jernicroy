@@ -1,7 +1,40 @@
-I am Jesus Jernic Roy A  ¯\_(ツ)_/¯, a Computer Science Undergrad.
+# Vanakam 🙏 
 
-I am pursuing M.Sc Computer Science in the Manonmaniam Sundaranar University. I completed my Undergrad on B.Sc Computer Science in Manonmaniam Sundaranar University in the year 2021. I completed my schooling from Carmel Higher Secondary School in the year 2018. I am enthusiastic towards learning and exploring new technology 📱💻
+<p align="center">I am <strong>Jesus Jernic Roy A</strong>, a Computer Science Postgrad.</p>
+ <p align="center" >I am pursuing M.Sc COmputer Science in the Scott Christian College. I completed my schooling from Carmel High School in the year 2018. I am enthusiastic towards learning and exploring new technology 📱💻</p>
+<p align="center"> Tech amazes me📳📴. I am currently working on web development and Machine Learning projects🗃 </p>
+<p align="center" style="margin: 0 19%";> I love doodling🖍, painting🖌, Contributing to Open Source and reading books📚. </p>
+<p align="center" style="margin: 0 19%";><a href="https://profile-summary-for-github.com/user/jernicroy"><strong>Click to see detailed PROFILE STATISTICS.</strong></a></p>
+<!--<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=jernicroy&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00"></p>
+<br>-->
 
-Tech amazes me📳📴. I am currently working on web development projects🗃
+<p align ="center" width = "45%"> <a href="https://github-readme-stats.vercel.app/api?username=jernicroy"><img src="https://github-readme-stats.vercel.app/api?username=jernicroy&hide=stars&count_private=true&show_icons=true" width="300" height="200"/></a> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jernicroy&exclude_repo=quiz"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jernicroy&exclude_repo=quiz&layout=compact&langs_count=6" width="300" height="125"/></a></p>
+<p align="center"><a href="https://github-readme-streak-stats.herokuapp.com/?user=jernicroy&theme=dark">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jernicroy&theme=dark" width="400" height="200"/></a>
+</p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=jernicroy"><img src="https://github-profile-trophy.vercel.app/?username=jernicroy"/></a> </p>
 
-I love doodling🖍, painting🖌 and reading story books📚.
+<br>
+
+## Tech Stack 
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>]()
+[<img align = "left" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>]()
+
+
+<br>
+<br>
+
+## Connect: 
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">](https://www.linkedin.com/in/jesus-jernic-roy-a-a94b091b6/)
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg">](https://www.instagram.com/jernic_roy/)
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg">](https://twitter.com/jernic_roy)
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg">](https://jernicroy.medium.com/)
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg">](https://www.behance.net/jernicroy)
+
+<br>
