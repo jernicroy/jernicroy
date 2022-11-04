@@ -1,7 +1,7 @@
 # Vanakam 🙏 
 
 <p align="center">I am <strong>Jesus Jernic Roy A</strong>, a Computer Science Postgrad.</p>
- <p align="center" >I am pursuing M.Sc COmputer Science in the Scott Christian College. I completed my schooling from Carmel High School in the year 2018. I am enthusiastic towards learning and exploring new technology 📱💻</p>
+ <p align="center" >I am Final Year M.Sc Computer Science student in the Scott Christian College. I completed my schooling from Carmel High School in the year 2018. I am enthusiastic towards learning and exploring new technology 📱💻</p>
 <p align="center"> Tech amazes me📳📴. I am currently working on web development and Machine Learning projects🗃 </p>
 <p align="center" style="margin: 0 19%";> I love doodling🖍, painting🖌, Contributing to Open Source and reading books📚. </p>
 <p align="center" style="margin: 0 19%";><a href="https://profile-summary-for-github.com/user/jernicroy"><strong>Click to see detailed PROFILE STATISTICS.</strong></a></p>
