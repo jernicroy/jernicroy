@@ -1,4 +1,4 @@
-# Vanakam 🙏 
+# Jernic Roy
 
 <p align="center">I am <strong>Jesus Jernic Roy A</strong>, a Computer Science Postgrad.</p>
  <p align="center" >I am Final Year M.Sc Computer Science student in the Scott Christian College. I completed my schooling from Carmel High School in the year 2018. I am enthusiastic towards learning and exploring new technology 📱💻</p>
